@@ -2,7 +2,7 @@
 
 ## The Einstein School Blog Theme
 
-Ghost Blogging Platform Theme for [http://einsteinschool.ghost.io](The Einstein School Blog)
+Ghost Blogging Platform Theme for [The Einstein School Blog](http://einsteinschool.ghost.io)
 
 # Copyright & License
 
