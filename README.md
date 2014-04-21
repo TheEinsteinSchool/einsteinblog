@@ -1,4 +1,4 @@
-# Ghost-Hut
+# The Einstein School Blog
 
 ## The Einstein School Blog Theme
 
