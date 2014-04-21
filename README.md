@@ -1,4 +1,4 @@
 einsteinblog
 ============
 
-ghost blogging platform theme for einsteinschool.ghost.io
+ghost blogging platform theme for [http://einsteinschool.ghost.io](einsteinschool.ghost.io)
