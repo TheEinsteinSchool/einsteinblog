@@ -1,15 +1,8 @@
 # Ghost-Hut
 
-## Ghost-Hut Theme 
+## The Einstein School Blog Theme
 
-### Fork this repo to make changes.  Suggestions always welcome.
-
-
-Ghost-Hut is a fork of [Tepid](https://github.com/wcs/tepid).  Some elements will need to be changed if you plan to utilize the built in AdSense spots (located in posts.hbs).  
-
-Located in default.hbs (in the footer section) make sure to change the url to my instagram so that the badge points to your page.
-
-
+Ghost Blogging Platform Theme for [http://einsteinschool.ghost.io](The Einstein School Blog)
 
 # Copyright & License
 
